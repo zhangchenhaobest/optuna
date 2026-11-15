@@ -1,3 +1,29 @@
+# optuna
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A hyperparameter optimization framework
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+超参数优化框架。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center"><img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" width="800"/></div>
 
 # Optuna: A hyperparameter optimization framework
